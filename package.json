@@ -1,0 +1,22 @@
+{
+  "name": "@power-of-api/core",
+  "version": "0.7.0",
+  "description": "API in 2 min, Run APIs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "Easy",
+    "to",
+    "setup",
+    "Autentication",
+    "DB",
+    "File",
+    "Store"
+  ],
+  "author": "Muralikrishna T <muralikrishna8811@gmail.com>",
+  "license": "MIT"
+}
